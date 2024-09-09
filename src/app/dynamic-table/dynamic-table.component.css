@@ -1,0 +1,18 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid skyblue;
+
+}
+th{
+    cursor: pointer;
+    text-align: left;
+    border-bottom: 1px solid skyblue;
+    padding:1px;
+    background-color: skyblue;
+}
+
+td{
+    text-align: left;
+    border-bottom: 1px solid grey;
+}
